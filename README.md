@@ -1,3 +1,7 @@
+# See Abe Burnett (Decision Support Data Scientist / @abe) with questions
+### I plan to use this project as a component in building my idea of what the Pluralsight Knowledge Graph should be
+
+
 # [vs](https://anvaka.github.io/vs/)
 
 Visualization of google's autocomplete as a graph.
